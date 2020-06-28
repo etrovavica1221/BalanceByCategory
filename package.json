@@ -1,0 +1,14 @@
+{
+  "name": "balancebycategory",
+  "version": "1.0.0",
+  "description": "kata getBalanceByCategoryInPeriod ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Viktoriia Petrova",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
